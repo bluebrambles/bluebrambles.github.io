@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":31,"dataId":2,"value1":3,"value2":0}],"hitType":0,"iconIndex":298,"itypeId":1,"name":"Poison Vial","note":"","occasion":1,"price":20,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":1,"variance":20},"description":"","effects":[{"code":12,"dataId":0,"value1":0,"value2":200}],"hitType":0,"iconIndex":176,"itypeId":1,"name":"Holy Water","note":"","occasion":0,"price":100,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":3,"animationId":45,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[{"code":12,"dataId":0,"value1":0.25,"value2":0}],"hitType":0,"iconIndex":189,"itypeId":1,"name":"Spellbook","note":"","occasion":0,"price":50,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":0}
+]
