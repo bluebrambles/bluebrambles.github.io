@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"galus","characterIndex":0,"characterName":"pcs","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"pcs","traits":[],"initialLevel":1,"maxLevel":5,"name":"Galus Artin","nickname":"Galus","note":"","profile":""},
-{"id":2,"battlerName":"anna","characterIndex":1,"characterName":"pcs","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"pcs","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anna Anderson","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"tsyik","characterIndex":2,"characterName":"pcs","classId":3,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"pcs","traits":[],"initialLevel":1,"maxLevel":4,"name":"Tsyik Phiets","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"daran","characterIndex":3,"characterName":"pcs","classId":4,"equips":[4,0,2,3,4],"faceIndex":3,"faceName":"pcs","traits":[],"initialLevel":1,"maxLevel":4,"name":"Daran Edermath","nickname":"","note":"","profile":""}
-]
